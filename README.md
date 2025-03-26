@@ -34,7 +34,7 @@ By leveraging **AWS Amplify**, we eliminated the need for complex backend manage
 ![Users](images/Users.jpg)
 
 ## 🔄 AWS Amplify Flowchart
-![Hello! Username](images/Hello! Username.png)
+![Hello! Username](images/Flowchart.png)
 
 ## 📡 GraphQL Queries & Mutations
 
