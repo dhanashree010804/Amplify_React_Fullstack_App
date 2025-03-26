@@ -122,13 +122,7 @@ This generates a **live URL** for the application.
 ## 📝 License
 This project is open-source and available under the **MIT License**.
 
-## 🤝 Contributing
-Contributions are welcome! Feel free to submit **issues, feature requests, or pull requests** to improve the project.
-
 ## 📩 Contact
 For any questions or collaboration:
 📧 **Email:** dhanashreegiriya2013@gmail.com
 🔗 **GitHub:** [dhanashree010804](https://github.com/dhanashree010804)
-
-## ✨ Acknowledgments
-Special thanks to **AWS Amplify** for providing an easy-to-use cloud development platform.
