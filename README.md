@@ -112,13 +112,6 @@ amplify publish
 ```
 This generates a **live URL** for the application.
 
-## 🛠 Future Enhancements
-- 📌 **Implement Google Maps API** for location-based travel entries
-- 🌎 **Multilingual Support** for global users
-- 🔔 **Push Notifications** for trip reminders
-- 📊 **Analytics Dashboard** to track user engagement
-- 🏆 **Gamification** with badges for frequent travelers
-
 ## 📝 License
 This project is open-source and available under the **MIT License**.
 
