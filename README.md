@@ -19,22 +19,22 @@ By leveraging **AWS Amplify**, we eliminated the need for complex backend manage
 
 ## 🛠 AWS Resources Used
 ### 1️⃣ Data Sources
-![Data Sources](./images/Data_Sources)
+![Data Sources](images/Data_Sources.jpg)
 
 ### 2️⃣ Objects
-![Objects](./images/Objects)
+![Objects](images/Objects.jpg)
 
 ### 3️⃣ Tables
-![Tables](./images/Tables)
+![Tables](images/Tables.jpg)
 
 ### 4️⃣ Travel Diary
-![Travel Diary](./images/Travel_Diary)
+![Travel Diary](images/Travel_Diary.jpg)
 
 ### 5️⃣ Users
-![Users](./images/Users)
+![Users](images/Users.jpg)
 
 ## 🔄 AWS Amplify Flowchart
-![Hello! Username](./images/Hello! Username)
+![Hello! Username](images/Hello! Username.png)
 
 ## 📡 GraphQL Queries & Mutations
 
@@ -123,7 +123,7 @@ Contributions are welcome! Feel free to submit **issues, feature requests, or pu
 ## 📩 Contact
 For any questions or collaboration:
 📧 **Email:** dhanashreegiriya2013@gmail.com
-🔗 **GitHub:** [yourgithub](https://github.com/dhanashree010804)
+🔗 **GitHub:** [dhanashree010804](https://github.com/dhanashree010804)
 
 ## ✨ Acknowledgments
 Special thanks to **AWS Amplify** for providing an easy-to-use cloud development platform.
