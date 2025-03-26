@@ -18,22 +18,27 @@ By leveraging **AWS Amplify**, we eliminated the need for complex backend manage
 - **Offline Support** via AWS Amplify's offline capabilities
 
 ## 🛠 AWS Resources Used
-### 1️⃣ Data Sources
+### 1️⃣ AWS AppSync (GraphQL API)
 ![Data Sources](images/Data_Sources.jpg)
+Facilitates communication between the frontend and backend. GraphQL queries and mutations allow fetching and updating data efficiently compared to traditional REST APIs.
 
-### 2️⃣ Objects
+### 2️⃣ 5️⃣ Amazon S3 Bucket
 ![Objects](images/Objects.jpg)
+Used for securely storing images uploaded by users. When an image is uploaded, its URL is stored in DynamoDB, making it easy to retrieve and display later.
 
-### 3️⃣ Tables
+### 3️⃣ Amazon DynamoDB Table
 ![Tables](images/Tables.jpg)
+A NoSQL database used to store travel entries. Each entry contains place, description, user, and image URL. DynamoDB offers high scalability and low-latency performance.
 
-### 4️⃣ Travel Diary
+### 4️⃣ 6️⃣ AWS Amplify Hosting
 ![Travel Diary](images/Travel_Diary.jpg)
+Used to deploy and host the React application on AWS, providing a fast and scalable frontend hosting solution.
 
-### 5️⃣ Users
+### 5️⃣ Amazon Cognito Users
 ![Users](images/Users.jpg)
+Handles user authentication, allowing secure signup, login, and session management. Cognito manages authentication flows, removing the need for custom authentication logic.
 
-## 🔄 AWS Amplify Flowchart
+## 🔄 Dataflow Diagram
 ![Hello! Username](images/Flowchart.png)
 
 ## 📡 GraphQL Queries & Mutations
