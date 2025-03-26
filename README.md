@@ -82,7 +82,7 @@ mutation CreateTravelEntry($input: CreateTravelEntryInput!) {
 
 ### 1️⃣ Clone the Repository
 ```bash
-git clone https://github.com/yourusername/travel-diary.git
+git clone https://github.com/dhanashree010804/Amplify_React_Fullstack_App.git
 cd travel-diary
 ```
 
