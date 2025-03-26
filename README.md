@@ -22,7 +22,7 @@ By leveraging **AWS Amplify**, we eliminated the need for complex backend manage
 ![Data Sources](images/Data_Sources.jpg)
 Facilitates communication between the frontend and backend. GraphQL queries and mutations allow fetching and updating data efficiently compared to traditional REST APIs.
 
-### 2️⃣ 5️⃣ Amazon S3 Bucket
+### 2️⃣ Amazon S3 Bucket
 ![Objects](images/Objects.jpg)
 Used for securely storing images uploaded by users. When an image is uploaded, its URL is stored in DynamoDB, making it easy to retrieve and display later.
 
@@ -30,7 +30,7 @@ Used for securely storing images uploaded by users. When an image is uploaded, i
 ![Tables](images/Tables.jpg)
 A NoSQL database used to store travel entries. Each entry contains place, description, user, and image URL. DynamoDB offers high scalability and low-latency performance.
 
-### 4️⃣ 6️⃣ AWS Amplify Hosting
+### 4️⃣ AWS Amplify Hosting
 ![Travel Diary](images/Travel_Diary.jpg)
 Used to deploy and host the React application on AWS, providing a fast and scalable frontend hosting solution.
 
