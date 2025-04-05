@@ -5,6 +5,12 @@ This project is a full-stack travel diary application built with **React.js** fo
 
 By leveraging **AWS Amplify**, we eliminated the need for complex backend management, making deployment and scaling easier. The project demonstrates how **cloud-native applications** can simplify full-stack development and improve user experience.
 
+## Project Report and Detailed Explanation
+
+The full project report and detailed explanation can be accessed through the link below:
+
+🔗 [Click here to view the report](https://drive.google.com/drive/folders/1CwhemmuLXLkyp13kkw-_P4QyVJjCFMfo?usp=drive_link)
+
 ## 🚀 Features
 - **User Authentication** using **AWS Cognito**
 - **GraphQL API** Integration with **AWS AppSync**
