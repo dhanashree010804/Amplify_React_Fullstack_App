@@ -9,7 +9,7 @@ By leveraging **AWS Amplify**, we eliminated the need for complex backend manage
 
 The full project detailed explanation can be accessed through the link below:
 
-🔗 [Click here to view the report](https://drive.google.com/drive/folders/1CwhemmuLXLkyp13kkw-_P4QyVJjCFMfo?usp=drive_link)
+🔗 [Click here to view the Project](https://drive.google.com/drive/folders/1CwhemmuLXLkyp13kkw-_P4QyVJjCFMfo?usp=drive_link)
 
 ## 🚀 Features
 - **User Authentication** using **AWS Cognito**
